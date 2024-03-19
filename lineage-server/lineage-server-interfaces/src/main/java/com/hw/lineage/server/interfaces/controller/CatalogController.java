@@ -50,6 +50,7 @@ import io.swagger.annotations.Api;
 import javax.annotation.Resource;
 import javax.validation.Valid;
 
+import java.io.UnsupportedEncodingException;
 import java.util.List;
 
 import static com.hw.lineage.common.enums.audit.ModuleCode.*;
